@@ -8,6 +8,7 @@
 - [Paying PoA Block Author](https://hgminerva.wordpress.com/2022/06/21/how-to-pay-the-block-author-validator-on-a-proof-of-authority-poa-consensus-in-substrate/)
 - [BABE vs AURA vs GRANDPA](https://stackoverflow.com/questions/58369340/in-substrate-what-is-the-difference-between-babe-aura-and-grandpa)
 - [Session Keys](https://wiki.polkadot.network/docs/learn-cryptography)
+- [Substrate blogs](https://hgminerva.wordpress.com/category/substrate/)
 
 ## Staking
 - [PoA to PoS](https://substrate.stackexchange.com/questions/4899/babe-poa-to-npos-migration?rq=1)
