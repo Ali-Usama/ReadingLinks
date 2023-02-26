@@ -11,3 +11,5 @@
 - [Metaprogramming](https://devopedia.org/metaprogramming#qst-ans-0)
 - [Understanding Rust Futures](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 - [Rust Macros](https://veykril.github.io/tlborm/introduction.html)
+- [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+
