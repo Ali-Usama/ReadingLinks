@@ -12,4 +12,9 @@
 - [Understanding Rust Futures](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 - [Rust Macros](https://veykril.github.io/tlborm/introduction.html)
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+- [Rust Blog Posts by FasterThanLime](https://fasterthanli.me/tags/rust)
+- [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
 
+
+## Rust Cryptography
+- [Rust Cryptography blog posts](https://kerkour.com/tags/cryptography)
