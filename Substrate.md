@@ -9,6 +9,8 @@
 - [BABE vs AURA vs GRANDPA](https://stackoverflow.com/questions/58369340/in-substrate-what-is-the-difference-between-babe-aura-and-grandpa)
 - [Session Keys](https://wiki.polkadot.network/docs/learn-cryptography)
 - [Substrate blogs](https://hgminerva.wordpress.com/category/substrate/)
+- [Why do we need #![cfg_attr(not(feature="std"), no_std)]](https://substrate.stackexchange.com/questions/1274/why-do-we-need-cfg-attrnotfeature-std-no-std)
+
 
 ## Staking
 - [PoA to PoS](https://substrate.stackexchange.com/questions/4899/babe-poa-to-npos-migration?rq=1)
@@ -37,3 +39,8 @@
 - [ChainX](https://github.com/chainx-org/ChainX)
 - [Substrate Stencil](https://github.com/kaichaosun/substrate-stencil)
 - [Astar](https://github.com/AstarNetwork/Astar) 
+
+## Substrate Youtube Resources
+- [Substrate Collectibles Workshop (YouTube)](https://research.web3.foundation/en/latest/)
+- [A Rustic vision for Polkadot by Gavin Wood](https://www.youtube.com/watch?v=0IoUZdDi5Is&ab_channel=Web3Foundation)
+- [Deep dive into Frame V2 pallet macros](https://www.youtube.com/watch?v=5pLHzKMCEtg&ab_channel=ParityTech)
