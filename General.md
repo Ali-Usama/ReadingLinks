@@ -14,6 +14,9 @@
 - [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Rust Blog Posts by FasterThanLime](https://fasterthanli.me/tags/rust)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/index.html)
+- [Building a Text editor in Rust](https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b)
+- [Rust by Practice](https://practice.rs/why-exercise.html)
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 
 
 ## Rust Cryptography
