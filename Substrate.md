@@ -10,7 +10,7 @@
 - [Session Keys](https://wiki.polkadot.network/docs/learn-cryptography)
 - [Substrate blogs](https://hgminerva.wordpress.com/category/substrate/)
 - [Why do we need #![cfg_attr(not(feature="std"), no_std)]](https://substrate.stackexchange.com/questions/1274/why-do-we-need-cfg-attrnotfeature-std-no-std)
-
+- [Substrate Contracts Workshop](https://www.shawntabrizi.com/substrate-contracts-workshop/#/)
 
 ## Staking
 - [PoA to PoS](https://substrate.stackexchange.com/questions/4899/babe-poa-to-npos-migration?rq=1)
@@ -19,6 +19,7 @@
 - [PoS configuration](https://zhuanlan.zhihu.com/p/161293660)
 - [Polkadot Inflation & staking reward](https://swiss-staking.medium.com/polkadot-inflation-staking-reward-4ea753380e0e)
 - [Deploy an NPoS Network](https://medium.com/oak-blockchain/tutorial-deploy-a-substrate-npos-network-in-3-minutes-fab9de5c4c2b)
+- [A staking Dapp in Substrate](https://iconosphereio.medium.com/a-simple-staking-dapp-50d9b7c4cd77)
 
 ## PoW
 - [Basic PoW Substrate Recipe](https://substrate.recipes/basic-pow.html)
