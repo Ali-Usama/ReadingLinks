@@ -5,6 +5,8 @@
 - [Polkadot Unique Identifiers](https://wiki.polkadot.network/docs/build-protocol-info#unique-identifiers-for-extrinsics)
 
 ## Rust
+- [libp2p tutorial: Building a p2p app in Rust](https://blog.logrocket.com/libp2p-tutorial-build-a-peer-to-peer-app-in-rust/)
+- [JSON and RUST: why serde_json is the top choice](https://blog.logrocket.com/json-and-rust-why-serde_json-is-the-top-choice/)
 - [Async Rust](https://rust-lang.github.io/async-book/01_getting_started/02_why_async.html)
 - [Rust Macros](https://faun.pub/a-brief-introduction-to-macros-in-rust-eb95cd5cd9f4)
 - [Rust & WebAssembly](https://rustwasm.github.io/docs/book/what-is-webassembly.html)
