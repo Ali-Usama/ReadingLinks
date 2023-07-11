@@ -28,4 +28,3 @@
 ## Blockchain
 - [Blockchain Fundamentals](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
 - [Web3 Research Foundation](https://research.web3.foundation/en/latest/)
-- 

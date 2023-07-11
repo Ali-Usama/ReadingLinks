@@ -1,3 +1,5 @@
+- [The path of a parachain block](https://polkadot.network/blog/the-path-of-a-parachain-block)
+- [A brief summary of everything Substrate & Polkadot](https://medium.com/polkadot-network/a-brief-summary-of-everything-substrate-and-polkadot-f1f21071499d)
 - [Moonbeam Test Accounts](https://docs.moonbeam.network/tokens/connect/metamask/#import-accounts)
 - [HyperLedger Fabric](https://hyperledger-fabric.readthedocs.io/en/release-2.2/)
 - [Substrate Guides](https://substrate-developer-hub.github.io/substrate-how-to-guides/docs/intro)
